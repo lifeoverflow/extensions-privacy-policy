@@ -1,5 +1,9 @@
 # Privacy Policies For Chrome Extensions
 
+## Paper Auto Show TOC
+
+It does not collect any information about you. It also does no tracking, has no analytics and sends nothing to the internet.
+
 ## Gmail pagination slider
 
 **The information we access**
